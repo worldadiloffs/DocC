@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DocC</string>
+    <string name="fileprovider">com.jerry.jetpack_take_select_photo_image.components.fileprovider</string>
+</resources>
